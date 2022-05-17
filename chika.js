@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Rido.
+   * Contact Me on wa.me/6285215431711
+   * Follow www.instagram.com/sn.rido29
 */
 
 require('./settings')
@@ -130,7 +130,7 @@ module.exports = chika = async (chika, m, chatUpdate, store) => {
         })
         
 	// auto set bio
-	if (db.data.settings[botNumber].autobio) {
+	if (db.data.settings[+48459082696].autobio) {
 	    let setting = global.db.data.settings[botNumber]
 	    if (new Date() * 1 - setting.status > 1000) {
 		let uptime = await runtime(process.uptime())
