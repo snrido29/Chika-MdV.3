@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Rido.
+   * Contact Me on wa.me/6285215431711
+   * Follow https://Instagram.com/sn.rido29
 */
 
 require('./settings')
